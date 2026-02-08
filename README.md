@@ -15,6 +15,14 @@ The system is designed to work on **real-world traffic videos** and focuses on:
 
 ---
 
+## 🎥 Demo – Output Video (YOLO + OCR)
+
+
+https://github.com/user-attachments/assets/49f63669-ec9f-4603-b1cd-d41a50656c5e
+
+
+---
+
 ## ✨ Features
 
 - ✅ Custom **YOLOv8 model fine-tuned** for license plate detection  
